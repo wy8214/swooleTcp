@@ -1,0 +1,117 @@
+<?php
+/**
+ * {module_name} Service
+ * 
+ * @filepath  {filename}
+ * @author  {author} 
+ * @version 1.0 , {date}
+ */
+namespace Common\Service;
+
+
+class {classname} {
+  
+  private static $instance;
+
+  public static function instance() {
+    if (self::$instance == null) {
+      self::$instance = new {classname}();
+    }
+
+    return self::$instance;
+  }
+  
+  function get_default_row() {
+    return array(
+        {defaultrow}
+    );
+  }
+
+  function find( $where ) {
+    ${name} = M('{modelname}');
+    $data = ${name}->where($where)->find();
+    return $data ? $data : array();
+  }
+
+  function get_by_id( $id ){
+    ${name} = M('{modelname}');
+    $data = ${name}->find( $id ) ;
+    return $data ? $data : array();
+  }
+  
+  function get_by_cond( $config ) {
+    $default = array(
+        'page' => 1,
+        'page_size' => 6,
+        'status' => '' ,
+        'count' => FALSE,
+        'order' => 'DESC' ,
+        'sort' => 'id',
+    );
+
+    $config = extend($config, $default);
+
+    ${name} = M('{modelname}');
+    
+    $where = array();
+    
+    if ( !empty($config['status']) ) {
+      $where['status'] = $config['status'] ;
+    }
+        
+    if ($config['count']) {
+      return ${name}->where($where)->count() ;
+    } else {
+      $order = $config['sort'] . ' ' . $config['order'] ;
+      $limit = ($config['page'] - 1 ) * $config['page_size'] . ' , ' . $config['page_size'];
+      $data = ${name}
+              ->where($where)
+              ->limit($limit)->order( $order )->select();
+      //echo ${name}->_sql();
+      return $data ? $data : array();
+    }
+  }
+  
+  function create($data, $is_ajax = true) {
+    ${name} = M('{modelname}');
+    $ret = ${name}->add($data);
+    if($is_ajax){
+      if ($ret) {
+        return ajax_arr('添加成功', TRUE, array(
+          'id' => $ret
+        ));
+      } else {
+        return ajax_arr('添加失败', FALSE);
+      }
+    }else{
+      if ($ret) {
+        return $ret;
+      } else {
+        return 0;
+      }
+    }
+  }
+
+  function update( $id , $data ) {
+    ${name} = M('{modelname}');
+    
+    $ret = ${name}->where("id = %d", $id)->save($data);
+    if ($ret === false ) {
+      return ajax_arr('编辑失败', FALSE);
+    } else {
+      return ajax_arr('编辑成功', TRUE);
+    }
+  }
+  
+  function delete( $ids ) {
+    ${name} = M('{modelname}');
+    $ret = ${name}->delete($ids);
+    if ($ret == 0) {
+      return ajax_arr('未删除任何数据', FALSE);
+    } else if (!$ret) {
+      return ajax_arr('删除失败', FALSE);
+    } else {
+      return ajax_arr('删除' . $ret . '行数据', TRUE);
+    }
+  }
+}

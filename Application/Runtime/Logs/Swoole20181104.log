@@ -1,0 +1,769 @@
+[2018-11-04 09:33:42 *32434.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=21] does not exists.
+[2018-11-04 09:33:42 *32434.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=21] does not exists.
+[2018-11-04 09:33:48 *32434.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=21] does not exists.
+[2018-11-04 09:33:48 *32434.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=21] does not exists.
+[2018-11-04 09:43:10 ^32432.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 ^32431.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 ^32431.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 *32433.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 ^32430.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 ^32429.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 ^32432.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 $32426.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 09:43:10 *32436.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 #32417.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 *32434.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 09:43:10 *32435.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 09:43:11 *32434.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 09:43:16 *1073.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 09:43:18 *1074.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 09:43:19 *1075.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 09:44:12 #32417.2]	NOTICE	Server is shutdown now.
+[2018-11-04 10:27:37 *3484.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 *3482.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 *3481.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 ^3478.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 ^3477.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 #3465.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 $3474.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 10:27:37 ^3479.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 *3483.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:37 ^3480.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 10:27:39 *3482.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 10:27:42 *3483.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 10:27:42 *4449.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 10:27:44 *3484.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 10:27:44 *4451.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 10:28:39 #3465.2]	NOTICE	Server is shutdown now.
+[2018-11-04 10:29:30 *4571.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 10:29:30 *4571.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 10:29:42 *4572.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 10:29:42 *4572.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 10:30:02 *4571.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 10:30:02 *4571.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 10:56:52 *6647.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=2] does not exists.
+[2018-11-04 11:29:52 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 11:29:52 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=3] does not exists.
+[2018-11-04 11:37:56 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:37:56 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:41:37 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=1] is closed.
+[2018-11-04 11:41:38 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=1] is closed.
+[2018-11-04 11:41:38 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:41:38 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:43:42 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=7] is closed.
+[2018-11-04 11:43:42 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=7] is closed.
+[2018-11-04 11:43:42 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:43:42 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:43:57 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:43:57 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:46:29 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=9] is closed.
+[2018-11-04 11:46:29 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=9] is closed.
+[2018-11-04 11:46:29 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:46:29 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:47:37 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=12] is closed.
+[2018-11-04 11:47:37 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=12] is closed.
+[2018-11-04 11:47:37 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:47:37 *9050.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:48:41 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:48:41 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:49:29 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 11:49:29 *9049.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:06:07 *9048.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 *9048.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 *9051.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 *9050.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 ^9047.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 ^9045.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 ^9046.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 $9041.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 14:06:07 ^9044.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 #9032.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:06:07 *9049.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:10:22 #9032.2]	NOTICE	Server is shutdown now.
+[2018-11-04 14:18:33 #21408.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:19:00 #21433.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:19:42 #21518.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:20:52 #21631.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:20:54 #21651.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:21:52 #21737.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:27:13 #22275.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:98
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:27:44 #22295.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:94
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:28:35 #22380.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:92
+Stack trace:
+#0 [internal function]: SwooleServer->onStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swoole/Swoo
+[2018-11-04 14:30:15 $22564.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:157
+Stack trace:
+#0 [internal function]: SwooleServer->onManagerStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swo
+[2018-11-04 14:30:15 #22559.2]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=255, signal=0.
+[2018-11-04 14:31:16 $22648.0]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'Common\Service\ClientService' not found in /data/wwwroot/Swoole/Swoole/SwooleServer.php:154
+Stack trace:
+#0 [internal function]: SwooleServer->onManagerStart(Object(Swoole\Server))
+#1 /data/wwwroot/Swoole/Swoole/SwooleServer.php(63): Swoole\Server->start()
+#2 /data/wwwroot/Swoole/swoole.php(95): SwooleServer->run()
+#3 /data/wwwroot/Swoole/swoole.php(374): servStart('0.0.0.0', 9501, 0, 'swooleServ')
+#4 {main}
+  thrown in /data/wwwroot/Swo
+[2018-11-04 14:31:16 #22639.2]	WARNING	swServer_signal_hanlder: Fatal Error: manager process exit. status=255, signal=0.
+[2018-11-04 14:49:22 *23853.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 *23850.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 *23850.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 ^23847.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 *23852.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 ^23846.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 ^23848.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 $23843.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 14:49:22 #23834.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 ^23849.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 *23851.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:22 *23853.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:49:25 *23851.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:49:25 *24216.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:50:22 *24217.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:50:34 *23853.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:50:34 *24316.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:51:21 #23834.2]	NOTICE	Server is shutdown now.
+[2018-11-04 14:51:37 *24424.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:51:37 *24424.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:01 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:01 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:03 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:03 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:11 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:11 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:11 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:52:11 *24425.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:58:27 *24424.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 ^24420.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 $24416.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 14:58:27 $24416.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 14:58:27 #24411.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 *24424.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 ^24420.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 ^24422.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 ^24421.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 ^24419.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 *24426.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 *24423.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:27 *24425.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 14:58:38 *24425.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:58:38 *24924.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 14:59:30 #24411.2]	NOTICE	Server is shutdown now.
+[2018-11-04 14:59:44 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 14:59:44 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:00:07 *25034.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:00:07 *25034.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:00:11 *25034.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:00:11 *25034.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:00:18 *25034.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:00:18 *25034.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:05:17 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:05:17 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:05:17 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:05:17 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:05:17 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:05:17 *25033.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:11:53 *25035.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 $25025.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 15:11:53 $25025.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 15:11:53 *25034.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 ^25030.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 ^25029.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 ^25028.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 ^25031.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 *25032.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 *25035.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 #25020.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:11:53 *25033.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:19:21 #25020.2]	NOTICE	Server is shutdown now.
+[2018-11-04 15:22:56 *26575.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:22:56 *26575.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:22:56 *26575.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:22:56 *26575.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:10 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:10 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:10 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:10 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:49 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:49 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:49 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:30:49 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:37 *27335.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:37 *27335.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:37 *27335.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:37 *27335.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:37 *27335.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:37 *27335.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:55 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:31:55 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:34:45 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:34:45 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:35:24 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:35:24 *27334.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:40:38 *27336.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 *27335.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 *27335.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 ^27331.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 *27333.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 ^27330.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 ^27329.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 #27317.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 ^27332.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 *27334.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:38 $27326.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 15:40:38 *27336.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 15:40:42 *27334.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 15:40:42 *28162.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 15:40:47 *27335.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 15:40:47 *28164.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 15:41:28 #27317.2]	NOTICE	Server is shutdown now.
+[2018-11-04 15:41:42 *28300.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:42 *28300.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:42 *28300.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:42 *28300.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:42 *28300.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:42 *28300.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:50 *28299.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:41:50 *28299.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:45:16 *28299.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:45:16 *28299.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:45:26 *28299.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:45:26 *28299.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:22 *28817.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:22 *28817.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:22 *28817.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:22 *28817.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:22 *28817.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:22 *28817.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:32 *28816.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:32 *28816.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:37 *28816.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:48:37 *28816.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:29 *28903.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:36 *28904.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:36 *28904.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:41 *28904.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:49:41 *28904.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:47 *29024.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:47 *29024.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:47 *29024.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:47 *29024.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:47 *29024.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:47 *29024.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:52 *29023.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:52 *29023.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:56 *29023.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:50:56 *29023.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:07 *29113.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:07 *29113.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:07 *29113.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:07 *29113.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:07 *29113.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:07 *29113.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:14 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:14 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:18 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:18 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:38 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:38 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:43 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:52:43 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:53:49 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:53:49 *29112.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:50 *29331.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:50 *29331.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:50 *29331.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:50 *29331.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:50 *29331.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:50 *29331.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:56 *29330.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:54:56 *29330.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:04 *29330.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:04 *29330.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:40 *29432.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:50 *29433.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:50 *29433.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:54 *29433.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 15:55:54 *29433.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:07 *30229.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:16 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:16 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:21 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:21 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:31 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:31 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:37 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:06:37 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:07:26 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:07:26 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:08:01 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:08:01 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:08:13 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:08:13 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:08:25 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:08:25 *30230.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:33 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:33 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:33 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:33 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:33 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:33 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:41 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:09:41 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:10:03 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:10:03 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:10:31 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:10:31 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:10:59 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:10:59 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:11:30 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:11:30 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:12:42 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:12:42 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:13:23 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:13:23 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:10 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:10 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:10 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:10 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:10 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:10 *30527.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:26 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:26 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:33 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:18:33 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:20:22 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:20:22 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:20:39 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:20:39 *30526.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 16:52:28 *30528.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 *30527.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 ^30524.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 ^30522.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 ^30523.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 $30518.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 16:52:28 *30526.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 ^30521.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 #30509.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:28 *30525.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 16:52:29 *30526.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 16:52:52 *1177.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 16:52:52 *1178.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 17:12:48 *1179.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 17:12:48 *2655.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 17:12:52 *2656.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 17:13:22 #30509.2]	NOTICE	Server is shutdown now.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:37 *2764.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:51 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:13:51 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:15:25 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:15:25 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:15:39 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:15:39 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:16:58 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:16:58 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:17:41 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:17:41 *2765.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:22:13 *3301.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 17:22:13 *3303.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 *3300.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 ^3299.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 ^3297.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 #3284.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 $3293.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 17:22:13 ^3296.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 ^3298.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 *3302.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 17:22:13 *3435.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 17:22:41 #3284.2]	NOTICE	Server is shutdown now.
+[2018-11-04 17:23:00 *3485.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:00 *3485.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:00 *3485.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:00 *3485.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:00 *3485.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:00 *3485.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:08 *3484.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:08 *3484.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:15 *3484.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:23:15 *3484.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=1] is closed.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=1] is closed.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:10 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:12 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:12 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:13 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:13 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:13 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:13 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:13 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:24:13 *3657.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:25:35 *3658.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:25:35 *3658.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:22 *3961.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:22 *3961.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:22 *3961.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:22 *3961.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:22 *3961.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:22 *3961.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:28 *3960.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:29:28 *3960.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:30:33 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:31 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=1] is closed.
+[2018-11-04 17:31:31 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=1] is closed.
+[2018-11-04 17:31:31 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:31 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:34 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:34 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:35 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:35 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:35 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:35 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:35 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:35 *4149.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:43 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:43 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:46 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:46 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:50 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:31:50 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:32:04 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:32:04 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:32:21 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:32:21 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:34:39 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:34:39 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:35:08 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:35:08 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:35:22 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:35:22 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:37:03 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:37:03 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:37:31 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:37:31 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:38:51 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:38:51 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:39:13 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:39:13 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:39:21 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 17:39:21 *4150.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:00:45 *6440.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:10:25 *6945.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:17:59 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:19:08 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=3] is closed.
+[2018-11-04 18:19:08 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=3] is closed.
+[2018-11-04 18:19:08 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:19:08 *7640.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:27:54 *8446.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:37:33 *8447.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:37:33 *8447.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:44:26 *8447.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 *8445.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 ^8443.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 ^8443.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 ^8444.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 ^8442.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 *8448.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 #8429.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 *8445.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 ^8441.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 $8438.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 18:44:26 *8447.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:26 *8446.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:44:40 *8446.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:44:40 *9670.1]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:45:02 *8447.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:45:05 *8448.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:45:05 *9751.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:45:33 #8429.2]	NOTICE	Server is shutdown now.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:45:48 *9805.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:46:06 *9806.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:46:06 *9806.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:46:09 *9806.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:46:09 *9806.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:46:38 *9806.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:46:38 *9806.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 18:58:41 *9807.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 ^9803.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 ^9802.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 ^9802.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 $9797.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 18:58:41 *9805.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 *9804.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 ^9801.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 ^9800.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 #9792.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 ^9803.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 *9807.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:41 *9806.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 18:58:48 *9806.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:58:48 *10736.2]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-04 18:59:29 #9792.2]	NOTICE	Server is shutdown now.
+[2018-11-04 19:00:06 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:00:06 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:01:00 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:01:00 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:02:06 *10851.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 4 byte failed, because connection[fd=2] is closed.
+[2018-11-04 19:02:06 *10851.2]	NOTICE	swFactoryProcess_finish (ERROR 1004): send 63 byte failed, because connection[fd=2] is closed.
+[2018-11-04 19:02:06 *10851.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:02:06 *10851.2]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:07:21 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:07:21 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:08:03 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:08:03 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:14:21 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:14:21 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:19:30 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 19:19:30 *10850.1]	NOTICE	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2018-11-04 21:59:10 *10851.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 ^10846.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 ^10845.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 *10849.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 ^10848.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 ^10847.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 $10842.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-11-04 21:59:10 *10850.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 *10852.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 #10837.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 ^10846.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-04 21:59:10 *10851.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2018-11-05 09:12:44 *10852.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-05 09:12:44 *9220.3]	NOTICE	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-11-05 09:13:39 #10837.2]	NOTICE	Server is shutdown now.
+[2019-01-27 00:14:51 $21417.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 *21452.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $21442.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21445.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21530.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $21640.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21532.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21446.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $21660.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21644.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21534.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $21746.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21664.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21447.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21648.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21535.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22287.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21448.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21752.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $21527.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21666.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21449.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21650.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $22304.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22289.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21531.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21753.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21668.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21450.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22388.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21643.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22308.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21533.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22290.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21451.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21754.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21670.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21645.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21421.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21536.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22389.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21749.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22309.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21663.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22313.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21646.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21537.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21750.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22393.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22395.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21423.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $22385.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 *21425.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22291.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22390.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21665.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21420.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22307.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22292.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21647.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22391.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21751.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^21422.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21667.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 $22284.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2019-01-27 00:14:51 *22392.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22310.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21424.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21649.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 ^22288.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21755.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22394.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21669.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21426.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22311.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22293.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21756.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *21427.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22312.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22294.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2019-01-27 00:14:51 *22314.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.

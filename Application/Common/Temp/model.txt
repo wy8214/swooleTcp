@@ -1,0 +1,18 @@
+<?php
+/**
+ * {module_name} Model
+ * 
+ * @filepath  {filename}
+ * @author  {author} 
+ * @version 1.0 , {date}
+ */
+
+namespace Common\Model;
+
+use Think\Model;
+
+class {classname} extends Model {
+
+    protected $trueTableName = '{tablename}';
+
+}

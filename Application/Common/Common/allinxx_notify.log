@@ -1,0 +1,67 @@
+2016-01-02 01:43:38 :Array
+(
+    [payDatetime] => 20160102014338
+    [ext1] => 
+    [payAmount] => 1
+    [returnDatetime] => 20160102014339
+    [issuerId] => 
+    [signMsg] => xgbijnZJX4v124WBkm1gWO1/N4T2+uuxiUW7djZzpmHmsDpVyF5YXW2tFJuFF0ct6Ll7BYpIK/qAS5wwNgtbUWNxr/HCDsgEgc3kPtHdEfmhLQ+ZzFPHt4PBmdce9NPkwZ1cW7Hwu7lXcCtURrnT4oCBr6rTvnO8Jac0q2qyhFQ=
+    [payType] => 0
+    [language] => 
+    [errorCode] => 
+    [merchantId] => 109233791407004
+    [orderDatetime] => 20160102014112
+    [version] => v1.0
+    [orderNo] => 160102549850521
+    [ext2] => 
+    [signType] => 1
+    [orderAmount] => 1
+    [paymentOrderId] => 201601020141153156
+    [payResult] => 1
+)
+
+2016-01-02 01:43:38 :Array
+(
+    [payDatetime] => 20160102014338
+    [ext1] => 
+    [payAmount] => 1
+    [returnDatetime] => 20160102014338
+    [issuerId] => 
+    [signMsg] => y0BJSiDZsiFfkHrXgr2iB2XFhYjNMxf0sOGlKxhzfKU0qb3QDa8HLv0kawaXOYpLwQ+H1+n6iuVRHdEdTn38p4kdUozCnec/81zwm8+Nn/zCKV64MqAq8nvdQDxFNg99yI9Z9Fo8thMbqGaQVHH5OTMwDtqwb6COK63LtSH/z+M=
+    [payType] => 0
+    [language] => 
+    [errorCode] => 
+    [merchantId] => 109233791407004
+    [orderDatetime] => 20160102014112
+    [version] => v1.0
+    [orderNo] => 160102549850521
+    [ext2] => 
+    [signType] => 1
+    [orderAmount] => 1
+    [paymentOrderId] => 201601020141153156
+    [payResult] => 1
+)
+
+2016-01-02 01:43:41 :Array
+(
+    [payDatetime] => 20160102014338
+    [ext1] => 
+    [payAmount] => 1
+    [returnDatetime] => 20160102014339
+    [issuerId] => 
+    [signMsg] => xgbijnZJX4v124WBkm1gWO1/N4T2+uuxiUW7djZzpmHmsDpVyF5YXW2tFJuFF0ct6Ll7BYpIK/qAS5wwNgtbUWNxr/HCDsgEgc3kPtHdEfmhLQ+ZzFPHt4PBmdce9NPkwZ1cW7Hwu7lXcCtURrnT4oCBr6rTvnO8Jac0q2qyhFQ=
+    [payType] => 0
+    [language] => 
+    [errorCode] => 
+    [merchantId] => 109233791407004
+    [orderDatetime] => 20160102014112
+    [version] => v1.0
+    [orderNo] => 160102549850521
+    [ext2] => 
+    [signType] => 1
+    [orderAmount] => 1
+    [extTL] => 
+    [paymentOrderId] => 201601020141153156
+    [payResult] => 1
+)
+

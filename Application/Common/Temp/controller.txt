@@ -1,0 +1,90 @@
+<?php
+/**
+ * {module_name} Controller
+ * 
+ * @filepath    {filename}
+ * @author  {author} 
+ * @version 1.0 , {date}
+ */
+
+namespace {module}\Controller;
+
+use Common\Service\{service_classname};
+
+class {classname} extends {module_classname} {
+
+  public function index() {
+    $action = I('get.action', 'read');
+
+    $data = $this->_init_data();
+    $data['module_name'] = '{module_name}';
+    $data['module_url'] = U( $this->base_path . 'index');
+
+    ${service} = {service_classname}::instance();
+    $data['config'] = array(
+      'action' => $action,
+      'action_label' => $this->action_label[$action],
+      'menu_id'    => $this->menu_id ,
+      'module_url' => U($this->base_path . 'index'),
+      'read_url'   => U($this->base_path . 'read' ),
+      'create_url' => U($this->base_path . 'create'),
+      'update_url' => U($this->base_path . 'update'),
+      'delete_url' => U($this->base_path . 'delete'),
+      'page' => 1,
+      'page_size' => C('PAGE_SIZE'),
+      'row' => ${service}->get_default_row() 
+    );
+
+    $data['param'] = array();
+
+    $this->display_with_layout($data, $this->controller .':index');
+  }
+
+  function read() {
+    $post = I('post.');
+
+    $config = array(
+      'page' => $post['page'],
+      'page_size' => $post['page_size'],
+      'sort' => empty($post['sort']) ? 'id' : $post['sort'],
+      'order' => empty($post['order']) ? 'DESC' : $post['order'],
+    );
+
+    ${service} = {service_classname}::instance();
+    $data['rows'] = ${service}->get_by_cond($config);
+
+    $config['count'] = TRUE;
+    $data['total'] = ${service}->get_by_cond($config);
+
+    $this->ajaxReturn($data);
+  }
+
+  function create() {
+    $post = I('post.');
+    if (empty($post)) {
+      $this->ajaxReturn(ajax_arr('数据错误,请稍后再试'));
+    }
+    
+    ${service} = {service_classname}::instance();
+    $ret = ${service}->create($post);
+    $this->ajaxReturn($ret);
+  }
+
+  function update($id = 0) {
+    $post = I('post.');
+    if (empty($post)) {
+      $this->ajaxReturn(ajax_arr('数据错误,请稍后再试'));
+    }
+
+    ${service} = {service_classname}::instance();
+    $ret = ${service}->update($id, $post);
+    $this->ajaxReturn($ret);
+  }
+
+  function delete() {
+    $ids = I('post.ids');
+    ${service} = {service_classname}::instance();
+    $ret = ${service}->delete($ids); 
+    $this->ajaxReturn($ret);
+  }
+}

@@ -1,0 +1,70 @@
+<link href="__PUBLIC__/plugins/fitui/tablegrid.css" rel="stylesheet">
+<script src="__PUBLIC__/js/{low_module}/format.js"></script>
+<script src="__PUBLIC__/plugins/fitui/tablegrid.js"></script>
+<script src="__PUBLIC__/js/{low_module}/{js_filename}.js"></script>
+<script>
+var Param = <?php echo json_encode( $param ) ?> ;
+$(function(){
+  {js_classname}.init(<?php echo json_encode( $config ) ?>);
+});
+
+</script>
+
+<div class="page-content">
+  <ol class="breadcrumb">
+    <li><a href="<?php echo $home_url ?>">首页</a></li>
+    <li class="active"><?php echo $module_name ?></li>
+  </ol>
+  <div class="page-content-inner">
+    <!-- read_modal -->
+    <div class="portlet blue" id="read_modal">
+      <!-- portlet-title -->
+      <div class="portlet-title">
+        <div class="caption"> <i class="fa fa-comments "></i> <?php echo $module_name ?> </div>
+        <div class="tools">
+        <?php if ( $opt_data == 1 || in_array( '添加' , $opt_data ) ) : ?>
+          <a href="#" class="toolbtn add load_add_modal_btn" data-toggle="tooltip" data-placement="top" title="新增"></a>
+        <?php endif ; ?>
+        </div>
+      </div><!-- end portlet-title -->
+      <div class="portlet-body ">
+        <!-- table grid -->
+        <div class="table-responsive">
+          <table id="data_table" class="table table-striped table-hover table-condensed">
+            <thead>
+              <tr>
+                {grid}
+                <?php if ( $opt_data == 1 || in_array( '编辑' , $opt_data ) ) : ?><th width="80" data-formatter="opt_edit"></th><?php endif ; ?>
+                <?php if ( $opt_data == 1 || in_array( '删除' , $opt_data ) ) : ?><th width="80" data-formatter="opt_delete"></th><?php endif ; ?>
+                <th>&nbsp;</th>
+              </tr>
+            </thead>
+          </table>
+        </div><!-- end table -->
+      </div>
+    </div> <!-- end portlet read_modal -->
+    
+    <!-- add_edit_modal  -->
+    <div class="portlet" id="add_edit_modal" style="display:none;">
+      <div class="portlet-title">
+          <div class="caption">
+              <i class="fa fa-cogs"></i>
+              <span id="action_label"></span>
+              <?php echo $module_name ?>
+          </div>
+      </div>
+      <div class="portlet-body ">
+          <form id="submit_form" class="form-horizontal">
+            {form}
+            <hr>
+            <div class="row">
+                <div class="col-md-12" style="text-align:center">
+                    <button class="btn btn-default btn-lg " id="add_edit_close_btn" type="button"><i class="fa fa-arrow-left"></i> 返回</button>
+                    <button class="btn btn-danger btn-lg " id="submit_btn" type="button"><i class="fa fa-edit"></i> 提交</button>
+                </div>
+            </div>
+          </form>
+      </div>
+    </div> <!-- end portlet add_edit_modal -->
+  </div><!-- end page-content-inner -->
+</div>

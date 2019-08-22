@@ -1,0 +1,149 @@
+/**
+ * {module_name} JS
+ * 
+ * @filepath    {filename}
+ * @author  {author} 
+ * @version 1.0 , {date}
+ */
+
+var {classname} = {
+  config: {
+  },
+  init: function (config) {
+    var _this = this;
+    $.extend(_this.config, config);
+    Layout.set_menu_select(_this.config.menu_id);
+
+    loading();
+    _this.init_btn();
+    _this.init_grid();
+    sessionStorage.removeItem("scroll_top");
+  },
+    
+  init_btn: function () {
+    var _this = this;
+
+    //查询按钮
+    $(document).on('click', '#search_btn', function (e) {
+      e.preventDefault();
+      var query_param = $('#data_table').TableGrid('getparam');
+      query_param.page = 1;
+
+      $('#data_table').TableGrid('param', query_param);
+      $('#data_table').TableGrid('reload');
+    });
+    
+    //打开添加窗口
+    $(document).on('click', '.load_add_modal_btn', function (e) {
+      e.preventDefault();
+
+      $('#submit_form').attr('action', _this.config.create_url);
+      $('#submit_form')[0].reset();
+      fillform( $('#submit_form') , _this.config.row );
+      
+      $('#action_label').html('新增');
+      $('#add_edit_modal').modal('show');
+    });
+
+    //打开编辑窗口
+    $(document).on('click', '.edit_btn', function (e) {
+      e.preventDefault();
+      
+      var index = $('.edit_btn').index( $(this) );
+      var data = $('#data_table').TableGrid('getrow' , index);
+
+      fillform( $('#submit_form') , data );
+      $('#submit_form').attr('action', _this.config.update_url + '/' + data['id'] );
+     
+      $('#action_label').html('编辑');
+      $('#add_edit_modal').modal('show');
+    });
+
+    //提交
+    $(document).on('click', '#submit_btn', function (e) {
+      e.preventDefault();
+
+      var _thisbtn = $(this);
+      var url = $('#submit_form').attr('action');
+      var data = $('#submit_form').serializeObject();
+
+      if (validform($('#submit_form'))) {
+        $.post(url, data, function (ret) {
+          tips(ret.info) ;
+          if (ret.status) {
+            $('#add_edit_modal').modal('hide');
+            var query_param = $('#data_table').TableGrid('getparam');
+            query_param.page = 1 ;
+            $('#data_table').TableGrid('param' , query_param);
+            $('#data_table').TableGrid('reload');
+          }
+        });
+      }
+    });
+    
+    //批量删除按钮
+    $(document).on('click', '.del-btn', function (e) {
+      e.preventDefault();
+      var select_id = new Array();
+      $("input[name='tablegrid-select[]']").each(function (index) {
+        if ($(this).prop('checked')) {
+          //取表数据
+          var row = $('#data_table').TableGrid('getrow', index);
+          select_id.push(row.id);
+        }
+      });
+
+      if (select_id.length == 0) {
+        tips('请选择数据');
+      } else {
+        _this.config.del_id = select_id.join(',');
+        _this.del_data();
+      }
+    });
+
+    //单个删除按钮
+    $(document).on('click', '.del_one_btn', function (e) {
+      e.preventDefault();
+      var index = $('.del_one_btn').index( $(this) );
+      var data = $('#data_table').TableGrid('getrow' , index);
+      _this.config.del_id = data['id'];
+      _this.del_data();
+    });
+  },
+  
+  init_grid: function () {
+    var _this = this;
+    $('#data_table').TableGrid({
+      url: _this.config.read_url,
+      select_all: false,
+      load_after_init: true,
+      row_style: function (row, index) {
+        if (row.status == 1 ) {
+          return 'info';
+        }
+      }
+    });
+  },
+  
+  del_data: function (ids) {
+    var _this = this;
+
+    sure.init('确定删除吗？', function () {
+      var url = _this.config.delete_url;
+      var data = {ids: _this.config.del_id};
+
+      $.post(url, data, function (ret) {
+        tips(ret.info);
+        if (ret.status) {
+          $('#data_table').TableGrid('reload');
+        }
+      });
+    });
+  },
+};
+
+
+
+
+
+
